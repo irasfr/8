@@ -1,3 +1,3 @@
 ﻿begin
-  print('Привет, мир!!');//fghuriopkoyrheg
+  print('Привет, мир!!');
 end.
